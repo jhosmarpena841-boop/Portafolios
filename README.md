@@ -25,3 +25,8 @@
 python generator.py
 python tareas.py
 python quess.py
+
+📫 Contact
+
+Email: jhosmarpena841@gmail.com
+GitHub: jhosmarpena841-boop
