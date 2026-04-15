@@ -27,6 +27,11 @@ Welcome to my Python portfolio. I'm a self-taught programmer from Venezuela, 61 
 - Shows: "X days remaining", "TODAY", or "X days ago"
 - Events are saved permanently
 
+### 5. Tip Calculator (`tip_calculator.py`)
+- Calculates percentages easily
+- Useful for tips, discounts, or any percentage calculation
+- Simple and fast
+
 ## How to run
 
 ```bash
@@ -34,6 +39,7 @@ python generator.py
 python tareas.py
 python guess.py
 python countdown.py
+python tip_calculator.py
 
 Contact
 . Gmail: jhosmarpena841@gmail.com
