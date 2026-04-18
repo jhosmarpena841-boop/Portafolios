@@ -32,6 +32,13 @@ Welcome to my Python portfolio. I'm a self-taught programmer from Venezuela, 61 
 - Useful for tips, discounts, or any percentage calculation
 - Simple and fast
 
+### 6. Unit Converter (`unit_converter.py`)
+- Converts between different units
+- Length: meters, kilometers, miles, feet
+- Weight: grams, kilograms, pounds
+- Temperature: Celsius, Fahrenheit, Kelvin
+- User-friendly menu system
+
 ## How to run
 
 ```bash
@@ -40,6 +47,7 @@ python tareas.py
 python guess.py
 python countdown.py
 python tip_calculator.py
+python unit_converter.py
 
 Contact
 . Gmail: jhosmarpena841@gmail.com
