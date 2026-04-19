@@ -39,6 +39,12 @@ Welcome to my Python portfolio. I'm a self-taught programmer from Venezuela, 61 
 - Temperature: Celsius, Fahrenheit, Kelvin
 - User-friendly menu system
 
+### 7. Weather API (`weather_api.py`)
+- Fetches current weather from the internet
+- Uses free API (wttr.in)
+- Enter any city name and get temperature + conditions
+- Demonstrates how to make HTTP requests
+
 ## How to run
 
 ```bash
@@ -48,6 +54,7 @@ python guess.py
 python countdown.py
 python tip_calculator.py
 python unit_converter.py
+python weather_api.py
 
 Contact
 . Gmail: jhosmarpena841@gmail.com
