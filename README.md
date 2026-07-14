@@ -1,7 +1,7 @@
 # Python Scripts Portfolio
 
 Welcome to my Python portfolio. I'm a self-taught programmer from Venezuela, 61 days of consistent practice. Here you'll find my most useful scripts.
-
+o
 ## Projects
 
 ### 1. Password Generator (`generator.py`)
@@ -45,6 +45,12 @@ Welcome to my Python portfolio. I'm a self-taught programmer from Venezuela, 61 
 - Enter any city name and get temperature + conditions
 - Demonstrates how to make HTTP requests
 
+### 8. File Organizer (`organizar.py`)
+- Automatically organizes files into dedicated subfolders based on their extensions (.png, .jpg, .mp4, .pdf)
+- Interactive command-line interface that prompts the user for the target folder path
+- Built-in path validation and continuous error handling to prevent crashes from typos
+- Secure file movement using safe library checks to avoid loss of unmapped formats
+
 ## How to run
 
 ```bash
@@ -55,6 +61,7 @@ python countdown.py
 python tip_calculator.py
 python unit_converter.py
 python weather_api.py
+python organizar.py
 
 Contact
 . Gmail: jhosmarpena841@gmail.com
